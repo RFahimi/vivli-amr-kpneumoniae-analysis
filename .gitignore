@@ -45,5 +45,30 @@ docs/
 # translation temp files
 po/*~
 
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Restricted source data
+atlas_vivli_2004_2024.csv
+data/
+raw_data/
+
+# Generated analytical outputs
+phase*_outputs/
+outputs/
+submission_package/
+
+# Model and binary objects
+*.rds
+*.RData
+*.rda
+*.gpkg
+
+# Console and temporary files
+*.Rhistory
+.Rproj.user/
+~$*
+.DS_Store
+Thumbs.db
 # RStudio Connect folder
 rsconnect/
