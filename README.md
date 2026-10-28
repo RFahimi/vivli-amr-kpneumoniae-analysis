@@ -264,7 +264,7 @@ Isolate-antibiotic observation
 
 ## Authors
 
-Developed by the AMR Data Challenge team at the University of Warwick.
+Developed by Reza Fahimi.
 
 ## Licence
 
