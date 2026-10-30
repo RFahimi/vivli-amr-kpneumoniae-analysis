@@ -264,7 +264,7 @@ Isolate-antibiotic observation
 
 ## Authors
 
-Developed by Reza Fahimi.
+Developed by Reza Fahimi .
 
 ## Licence
 
